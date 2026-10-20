@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+transformers
+torch
+ragas
+datasets
